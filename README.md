@@ -1,9 +1,9 @@
 BookMe Database System
 <ul> 
-  <a ="#introduction"><li>Introduction of BookMe Database System</li></a>
-  <a ="#ER"><li> ER Model of BookMe Database System</li></a>
-<a ="#tables"> <li>The tables BOOKME has</li></a>
-<a ="#query"> <li> The business query it uses</li></a>
+  <a href="#introduction"><li>Introduction of BookMe Database System</li></a>
+  <a href="#ER"><li> ER Model of BookMe Database System</li></a>
+<a href="#tables"> <li>The tables BOOKME has</li></a>
+<a href="#query"> <li> The business query it uses</li></a>
   </ul>
 
  
