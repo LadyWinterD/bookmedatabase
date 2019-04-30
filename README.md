@@ -26,21 +26,21 @@ BookMe Database System
   </ul>
   
 <h3>Customers</h3>
-<img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/Customers.JPG">
+<img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/Customers.JPG">
 
   <h3>Products</h3>
-  <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/Products.JPG">
+  <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/Products.JPG">
   
  <h3> Products Detail</h3>
-   <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/ProductsDetails.JPG">
+   <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/ProductsDetails.JPG">
  <h3> Products Time</h3>
-    <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/ProductsTime.JPG">
+    <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/ProductsTime.JPG">
     <h3>Reviews</h3>
-        <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/Reviews.JPG">
+        <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/Reviews.JPG">
  <h3>Booking</h3>
- <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/Booking.JPG">
+ <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/Booking.JPG">
  <h3>Payments</h3>
-  <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/Payments.JPG">
+  <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/Payments.JPG">
   
   
   <h3>The business query it uses</h3>
@@ -55,18 +55,18 @@ BookMe Database System
   </ul>
   
     <h3>Customer Detail</h3>
-      <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/QueryCustomersDetails.png">
+      <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryCustomersDetails.png">
     
   <h3>Product Information</h3>
-     <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/QueryProductsInformation.png">
+     <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryProductsInformation.png">
  <h3> Products Detail</h3>
-      <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/QueryProductsDetails.png">
+      <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryProductsDetails.png">
  <h3> Products Time</h3>
-      <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/QueryProductsTimes.png">
+      <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryProductsTimes.png">
     <h3>Products Reviews</h3>
-         <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/QueryProductsReviews.png">
+         <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryProductsReviews.png">
  <h3>Booking Information</h3>
-      <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/QueryBookingInformation.png">
+      <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryBookingInformation.png">
  <h3>Payments Information</h3>
-      <img src="https://github.com/LovelyEmma/bookmedatabase/tree/master/img/QueryPaymentInformations.png">
+      <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryPaymentInformations.png">
 
