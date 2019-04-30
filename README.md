@@ -4,6 +4,8 @@ BookMe Database System
   <a href="#ER"><li> ER Model of BookMe Database System</li></a>
 <a href="#tables"> <li>The tables BOOKME has</li></a>
 <a href="#query"> <li> The business query it uses</li></a>
+  <a href="https://github.com/LovelyEmma/bookmedatabase/blob/master/BookmeCreateTable.sql"><li>SQL I : Create Tables.</li></a>
+ <a href="https://github.com/LovelyEmma/bookmedatabase/blob/master/AddCusor.sql"> <li>SQL II : Query,Cusor.</li>
   </ul>
 
  
