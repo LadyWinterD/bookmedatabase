@@ -57,8 +57,8 @@ BookMe Database System
  <li>Payments Information</li>
   </ul>
   
-    <h3>Customer Detail</h3>
-      <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryCustomersDetails.png">
+  <h3>Customer Detail</h3>
+     <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryCustomersDetails.png">
     
   <h3>Product Information</h3>
      <img src="https://github.com/LovelyEmma/bookmedatabase/blob/master/img/QueryProductsInformation.png">
